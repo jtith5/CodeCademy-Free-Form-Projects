@@ -31,3 +31,4 @@ if (randomNumber === 0){
 }
 
 console.log(eightBall);
+console.log('game over');
